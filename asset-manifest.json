@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/salary-calculator/static/css/main.61f34e27.chunk.css",
-    "main.js": "/salary-calculator/static/js/main.a41f79fc.chunk.js",
-    "main.js.map": "/salary-calculator/static/js/main.a41f79fc.chunk.js.map",
+    "main.css": "/salary-calculator/static/css/main.b0cb5c35.chunk.css",
+    "main.js": "/salary-calculator/static/js/main.becc6463.chunk.js",
+    "main.js.map": "/salary-calculator/static/js/main.becc6463.chunk.js.map",
     "runtime-main.js": "/salary-calculator/static/js/runtime-main.44a34fe5.js",
     "runtime-main.js.map": "/salary-calculator/static/js/runtime-main.44a34fe5.js.map",
-    "static/js/2.c4c6a856.chunk.js": "/salary-calculator/static/js/2.c4c6a856.chunk.js",
-    "static/js/2.c4c6a856.chunk.js.map": "/salary-calculator/static/js/2.c4c6a856.chunk.js.map",
+    "static/js/2.ad37e8b3.chunk.js": "/salary-calculator/static/js/2.ad37e8b3.chunk.js",
+    "static/js/2.ad37e8b3.chunk.js.map": "/salary-calculator/static/js/2.ad37e8b3.chunk.js.map",
     "index.html": "/salary-calculator/index.html",
-    "precache-manifest.dbe072ea74d0b2651251295054896733.js": "/salary-calculator/precache-manifest.dbe072ea74d0b2651251295054896733.js",
+    "precache-manifest.927f7abc4c0e04359f95c03d05e7e07a.js": "/salary-calculator/precache-manifest.927f7abc4c0e04359f95c03d05e7e07a.js",
     "service-worker.js": "/salary-calculator/service-worker.js",
-    "static/css/main.61f34e27.chunk.css.map": "/salary-calculator/static/css/main.61f34e27.chunk.css.map",
-    "static/js/2.c4c6a856.chunk.js.LICENSE.txt": "/salary-calculator/static/js/2.c4c6a856.chunk.js.LICENSE.txt"
+    "static/css/main.b0cb5c35.chunk.css.map": "/salary-calculator/static/css/main.b0cb5c35.chunk.css.map",
+    "static/js/2.ad37e8b3.chunk.js.LICENSE.txt": "/salary-calculator/static/js/2.ad37e8b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44a34fe5.js",
-    "static/js/2.c4c6a856.chunk.js",
-    "static/css/main.61f34e27.chunk.css",
-    "static/js/main.a41f79fc.chunk.js"
+    "static/js/2.ad37e8b3.chunk.js",
+    "static/css/main.b0cb5c35.chunk.css",
+    "static/js/main.becc6463.chunk.js"
   ]
 }
