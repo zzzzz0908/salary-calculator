@@ -5,7 +5,8 @@ class SalaryItems extends React.Component {
   render() {
     const {
       salaryItems,
-      onChange
+      onChange,
+      onDelete
     } = this.props;
 
     return (
@@ -15,10 +16,11 @@ class SalaryItems extends React.Component {
           <SalaryItem
             key={salaryItem.id}
             id={salaryItem.id}
-            price={salaryItem.price}
+            rate={salaryItem.rate}
             count={salaryItem.count}
             name={salaryItem.name}
             onChange={onChange}
+            onDelete={onDelete}
           />
         ))}
       </div>

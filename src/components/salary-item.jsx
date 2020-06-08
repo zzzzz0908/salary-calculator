@@ -6,19 +6,27 @@ class SalaryItem extends React.Component {
       <div>
         <label className="salary-item-label">{this.props.name}</label>
         <input
-          type="text"
-          className="price-input"
-          name="price"
-          value={this.props.price}
+          type="number"
+          placeholder="Rate"
+          className="rate-input"
+          name="rate"
+          value={this.props.rate}
           onChange={event => this.props.onChange(event, this.props.id)}
         />
         <input
-          type="text"
+          type="number"
+          placeholder="Count"
+          min="0"
           className="count-input"
           name="count"
           value={this.props.count}
           onChange={event => this.props.onChange(event, this.props.id)}
         />
+        <button
+          onClick={() => this.props.onDelete(this.props.id)}
+        >
+          Delete
+        </button>
       </div>
     );
   }

@@ -8,11 +8,20 @@
   text-align: right;
 }
 
-.price-input {
+.rate-input {
   margin: 0 20px;
 }
 
 .count-input {
   margin: 0 20px;
 }
+
+input[type=number].rate-input::-webkit-inner-spin-button, 
+input[type=number].rate-input::-webkit-outer-spin-button,
+input[type=number].count-input::-webkit-inner-spin-button, 
+input[type=number].count-input::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+}
+
+
 
